@@ -1,0 +1,1 @@
+Hello, this website is my semester completion project for the technical course in Internet Computing. It was created using HTML 5 and CSS3, and all my love for the game Chrono Trigger was put into it.
